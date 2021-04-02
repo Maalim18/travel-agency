@@ -1,0 +1,35 @@
+body{
+    background-color: lightblue;
+}
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: larger;
+    font-style: italic;
+    background-color: blue;
+}
+img{
+    height: 350px;
+    width: 350px;
+    display: flex;
+    flex-direction: column;
+    float: center;
+}
+.about{
+    font-size: small;
+    line-height: 1.5em;
+    
+}
+h2{
+    color: #f7325e;
+
+}
+.tropical{
+color: #7d8d65;
+font-family: fantasy;
+}
+.popular{
+    color: blue;
+    font-family: sans-serif;
+    font-weight: lighter;
+background-color: chocolate;
+}
